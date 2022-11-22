@@ -102,6 +102,10 @@ main {
 
 }
 
+main section div img{
+    border-radius: 15%;
+}
+
 /*
 =============== 
 About
